@@ -9,3 +9,15 @@ figcaption {
   font-family: courier;
   padding-left: 50px;
 }
+ #GB {
+ 	background-color: #12171a;
+ }
+h1 {
+	font-family: courier;
+	color: #ffffff;
+}
+#white {
+	font-kerning: 50%;
+	color: #ffffff;
+	font-family: courier;
+}
