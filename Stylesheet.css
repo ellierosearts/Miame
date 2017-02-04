@@ -5,12 +5,5 @@ figcaption {
 	font-family: courier;
 }
 #link {
-  border-radius: 10px;
-  background-color: rgb(137, 112, 200);
-  position: absolute;
-  left: 356px;
-  top: 1087px;
-  width: 392px;
-  height: 71px;
-  z-index: 2;
+  font-family: courier;
 }
