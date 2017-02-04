@@ -15,10 +15,13 @@ figcaption {
 h1 {
 	font-family: courier;
 	color: #ffffff;
-	padding-left: 50px;
+	padding-left: 100px;
 }
 #white {
 	font-kerning: 50%;
 	color: #ffffff;
 	font-family: courier;
+}
+#acid {
+	background-color: #df8d00;
 }
