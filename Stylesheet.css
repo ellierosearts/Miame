@@ -15,6 +15,7 @@ figcaption {
 h1 {
 	font-family: courier;
 	color: #ffffff;
+	padding-left: 50px;
 }
 #white {
 	font-kerning: 50%;
